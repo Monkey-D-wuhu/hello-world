@@ -3,8 +3,8 @@
 
  int main()
 {
-   int a[5]={2};
-   printf("%d",a[3]);
+  
+   printf("wuhu");
   
    return 0;
 
